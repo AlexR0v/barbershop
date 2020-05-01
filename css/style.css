@@ -8,7 +8,7 @@ body {
     color: #ffffff;
     text-transform: uppercase;
     background-color: #000000;
-    background-image: url(../img/background.png);
+    background-image: url('../img/background.png');
     background-position: top center;
     background-repeat: no-repeat;
 
@@ -103,7 +103,7 @@ img{
 .index-columns {
     color: #000000;
     background-color: #f8f5f2;
-    background-image: url(../img/pattern.png);
+    background-image: url('../img/pattern.png');
     background-position: 0 0;
     background-repeat: repeat;
 }
@@ -139,7 +139,7 @@ img{
 .main-footer {
     color: #ffffff;
     background-color: #212121;
-    background-image: url(/img/footer.png);
+    background-image: url('../img/footer.png');
     background-position: 0 0;
     background-repeat: repeat;
 }
@@ -175,7 +175,7 @@ img{
 .modal {
     color: #000000;
     background-color: #f8f3f0;
-    background-image: url(/img/pattern.png);
+    background-image: url('../img/pattern.pngimg');
     background-position: 0 0;
     background-repeat: repeat;
 }
@@ -319,7 +319,7 @@ img{
     padding: 50px 80px;
     margin: 0 auto;
     margin-bottom: 35px;
-    background-image: url(/img/layer.png);
+    background-image: url('../img/layer.png');
     background-position: center;
     background-repeat: no-repeat;
 
@@ -380,7 +380,7 @@ img{
 
 .login-link::before{
     position: absolute;
-    content: url(/img/login.png);
+    content: url('../img/login.png');
     width: 16px;
     height: 18px;
     top: 26px;
